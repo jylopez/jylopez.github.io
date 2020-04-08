@@ -2,7 +2,7 @@
 title:               The Jershon Lopez Fan Club
 tagline:             'A place to talk about myself'
 description:         'A personal website to protect my domain.'
-url:                 https://jylopez.github.io/
+url:                 https://jylopez.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
