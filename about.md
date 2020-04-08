@@ -7,4 +7,4 @@ title: About
   Hey it's me. Cool web page huh?
 </p>
 
-✌️.
+✌.
